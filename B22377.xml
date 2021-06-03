@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order made by the committees of the House of Commons and directed to the iustices of peace in Middlesex and Surrey for the raising of the trayned bands and placing of good guards about the city on Tuesday, October 19, 1641 : whereunto is annexed a petition delivered to Mr. Pym concerning one hundred pensioners in the Kings Bench, with the coppie of a letter sent from Germany to the Parliament touching the Palatinate, and an honourable proposition made concerning the same.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22377</idno><idno type="EEBO-CITATION">10285345</idno>
+  <idno type="VID">204652</idno>
+  <idno type="EEBO-PROQUEST">2240951460</idno>
+  
+            <idno type="STC">Wing E2637</idno>
+            <idno type="OCLC">10285345</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204652)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order made by the committees of the House of Commons and directed to the iustices of peace in Middlesex and Surrey for the raising of the trayned bands and placing of good guards about the city on Tuesday, October 19, 1641 : whereunto is annexed a petition delivered to Mr. Pym concerning one hundred pensioners in the Kings Bench, with the coppie of a letter sent from Germany to the Parliament touching the Palatinate, and an honourable proposition made concerning the same.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204652:1"/>
+            <pb facs="tcp:204652:1"/>
+            <p> AN ORDER MADE BY THE COMMITTEES OF THE HOUSE OF COMMONS And directed to the Iustices of Peace in <hi>Middlesex</hi> and <hi>Surrey.</hi>
+            </p>
+            <p>For the raising of the Trayned Bands, and placing of good Guards about the City, <hi>On Tuesday, October</hi> 19. 1641.</p>
+            <p>Whereunto is annexed a Petition deli<g ref="char:EOLhyphen"/>vered to Mr <hi>Pym</hi> concerning one hundred Pen<g ref="char:EOLhyphen"/>sioners in the <hi>Kings Bench.</hi>
+            </p>
+            <p>With the Coppie of a Letter sent from <hi>Germany</hi> to the PARLIAMENT ttouching the <hi>Palatinate:</hi> And an honouradle Proposition made concerning the same.</p>
+            <p>LONDON, Printed for <hi>Iohn Thomas.</hi> 1641.</p>
+            <pb facs="tcp:204652:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204652:2"/>
+            <head>
+               <hi>Die Martis</hi> 19, <hi>Octob:</hi> 1641: At the <hi>Committee</hi> of the House of COMMONS appointed to sit, during the Recesse.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N regard of the mischie<g ref="char:EOLhyphen"/>vous Designes and Con<g ref="char:EOLhyphen"/>spiracies now of late dis<g ref="char:EOLhyphen"/>covered in <hi>Scotland,</hi> against some principall and great persons there, by some who doe professe the Popish Religion, and which is Po<g ref="char:EOLhyphen"/>pishly affected, which the Committee conceives, may have some correspon<g ref="char:EOLhyphen"/>dency here to doe the like mischiefe; They there<g ref="char:EOLhyphen"/>fore thinke fit, and doe order it, That the Justices of Peace for the Counties of <hi>Middlesex, Survey,</hi> and the Burrough of <hi>Southwarke,</hi> doe forthwith place good Guards of men in Armes, in severall places about the City and Southwarke, and other places neere adjoyning, to bee relieved and conti<g ref="char:EOLhyphen"/>nued, as they thinke fit, untill they shall receive further direction from the PARLIAMENT, which
+<pb n="2" facs="tcp:204652:3"/> is to meet to morrow; And in the meane time to observe such further direction therein, as they shall receive from the Earle of <hi>Essex.</hi>
+            </p>
+            <closer>
+               <signed>IOHN PYM.</signed>
+            </closer>
+            <trailer>
+               <hi>To the Iustices of Peace for the County of</hi> Surrey <hi>and the Bor<g ref="char:EOLhyphen"/>rough of</hi> Southwarke.</trailer>
+         </div>
+         <div type="petition">
+            <head>The Copie of a Petition delivered to Mr. <hi>Pym,</hi> concerning a hundred Pensioners in the <hi>Kings-Bench, October</hi> 19. 1641</head>
+            <p>THere was this day also a Petition delivered to Mr. <hi>Pym,</hi> concerning a hundred Pensioners in the <hi>Kings-Bench,</hi> whereupon Mr. <hi>Pym</hi> was de<g ref="char:EOLhyphen"/>sired to deliver his opinion, whether the impri<g ref="char:EOLhyphen"/>sonment of the body for contempt or otherwise, were not against <hi>Magna Charta,</hi> and the Privi<g ref="char:EOLhyphen"/>ledge of the Subject, to which Mr. <hi>Pym</hi> replyed, it befitted not him as a private man to deliver his opinion therein, but it concerned the two houses of PARLIAMENT, the Judges, and the lear<g ref="char:EOLhyphen"/>ned in the Law to give verdit upon it, and upon the meeting and assembling of the House of Com<g ref="char:EOLhyphen"/>mons, the Petition should be delivered, where they must attend for answer to it.</p>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:204652:3"/>
+            <head>THE Copie of another Letter sent to the PARLIAMENT from <hi>Regensborough</hi> in <hi>Germany</hi> touching the <hi>Pala<g ref="char:EOLhyphen"/>tinate.</hi>
+            </head>
+            <p>FRom <hi>Regensborough</hi> we receive intelligence of Letters come to the House of Parliament, That the Lantsgrave of Hessen, and the Duke of Lune<g ref="char:EOLhyphen"/>burgh, are falling off from the Swedes, which will difficilate the Conquest of the <hi>Palatinate,</hi> by the <hi>English,</hi> but the <hi>Scots</hi> are very importunate with the King to pesecute it, promising strong ayd and hono<g ref="char:EOLhyphen"/>rable allowance, and that the <hi>Dan<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> will joyne forces with us, but the Commons conceive that the bur<g ref="char:EOLhyphen"/>then and charge of the warre will fall upon the <hi>En<g ref="char:EOLhyphen"/>glish,</hi> yet how soever they are willing to advance their designe.</p>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:204652:4"/>
+            <head>A Proposition made by an honourable Lord in <hi>Scotland</hi> touching the <hi>Palatinate.</hi>
+            </head>
+            <p>FIrst, in regard his Majesties gracious <hi>Manifest</hi> and Proposition touching the Electorall Fami<g ref="char:EOLhyphen"/>ly, having beene so generally approved and conclu<g ref="char:EOLhyphen"/>ded, to be both a Pious and Honourable enterprize, and therefore ought not to be delayed or procrasti<g ref="char:EOLhyphen"/>nated.</p>
+            <p>But it is objected againe, that the Country is so ruined and depopulated, that if it should be wonne, it will not (in all probability) countervaile the charge, losse, and hazard that must first be under<g ref="char:EOLhyphen"/>gone.</p>
+            <p>This Objection is not to be denyed, but to bee both fit and necessary of a State to be considered, when their undertakings are for particular wrongs and injuries sustained, but when as an enemy (as in this case) hath forcibly thrust a lawfull Prince out of the whole Inheritance of his Royall Ance<g ref="char:EOLhyphen"/>stors, and refuseth to restore him upon honourable Conditions, I humbly conceive, quitting of cost ought not to over-ballance the right and honour of a Prince so injured.</p>
+            <p>The Prince Elector is not onely forceably kept forth of his lawfull Inheritance, to his great losse and dammage; but his Honour is thereby deepely wounded, and through him, his Majestie,
+<pb n="5" facs="tcp:204652:4"/> our Native Soveraigne, his Royall Uncle, and indeed all the Princes of the reformed Religion, beare a share in his dishonour.</p>
+            <p>Lastly, in regard <hi>England</hi> and <hi>Scotland</hi> had late<g ref="char:EOLhyphen"/>ly two Armies in the field (which now, through the goodnesse of the God of Peace, are united and disbanded) in which are many stout, and valiant Commanders and Officers of both Nations, for the expediting of so noble an enterprise, up then, let us be doing, and surely the Lord of Hosts will goe before the Army (that shall fight for such a cause) and make plaine all Mountaines, that shall occurre in the way, and give a blessed and successefull Issue, to such an honourable enterprize.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
